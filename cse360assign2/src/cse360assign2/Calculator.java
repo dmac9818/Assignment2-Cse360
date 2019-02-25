@@ -10,7 +10,6 @@ public class Calculator {
 	
 	public Calculator () {
 		total = 0;  // not needed - included for clarity
-		System.out.println('wow');
 	}
 	
 	public int getTotal () {
