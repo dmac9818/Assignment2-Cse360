@@ -1,5 +1,9 @@
 package cse360assign2;
-
+/** Name: Daniel McComb
+ *Class ID: 485
+ *Assignment 2
+ *Description: A class that contains methods to perform a number of math operations and print the history of them.
+ */
 public class Calculator {
 
 	private int total;
@@ -32,4 +36,3 @@ public class Calculator {
 		return "";
 	}
 }
-//test1
